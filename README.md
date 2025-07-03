@@ -28,15 +28,6 @@ A clean and modular implementation of a **First-In-First-Out (FIFO)** buffer in 
 
 ---
 
-## 🔬 Simulation Preview
-
-✨ Run simulations using tools like **ModelSim**, **Vivado**, or **GTKWave** to view read/write behavior, edge conditions, and control logic.
-
-<p align="center">
-  <img src="your-waveform-screenshot.png" alt="FIFO waveform preview" width="600">
-</p>
-
----
 
 ## 🚀 How to Run
 
