@@ -29,9 +29,4 @@ A clean and modular implementation of a **First-In-First-Out (FIFO)** buffer in 
 ---
 
 
-## 🚀 How to Run
 
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/fifo-verilog.git
-   cd fifo-verilog
